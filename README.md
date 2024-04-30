@@ -10,6 +10,4 @@
 
 В файле логов сохраняется выполнение всех команд и этапов
 
-![Иллюстрация к проекту](https://github.com/4ellovekkk/pgstart_devops_test/image.png)
-
 ![Image alt](https://github.com/4ellovekkk/pgstart_devops_test/raw/main/image.png)
