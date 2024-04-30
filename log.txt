@@ -1,0 +1,62 @@
+2024-04-30 22:43:02,104 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-04-30 22:43:02,185 - INFO - Authentication (password) successful!
+2024-04-30 22:43:02,369 - INFO - Original command sent
+2024-04-30 22:43:02,370 - INFO - password sent
+2024-04-30 22:43:02,370 - INFO - input flushed
+2024-04-30 22:43:02,370 - INFO - Установка PostgreSQL...
+2024-04-30 22:43:02,630 - INFO - The following output was produced:
+ ['123321\r\n', '[sudo] password for vydra: \r\n', '\rReading package lists... 0%\r\rReading package lists... 100%\r\rReading package lists... Done\r\r\n', '\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r\rBuilding dependency tree... Done\r\r\n', '\rReading state information... 0% \r\rReading state information... 0%\r\rReading state information... Done\r\r\n', 'postgresql is already the newest version (14+238).\r\n', 'postgresql-client-common is already the newest version (238).\r\n', 'postgresql-contrib is already the newest version (14+238).\r\n', 'The following packages were automatically installed and are no longer required:\r\n', '  default-mysql-server libblas3 liblinear4 libodbc1 libodbccr2 libssh2-1\r\n', '  lua-lpeg nmap nmap-common\r\n', "Use 'sudo apt autoremove' to remove them.\r\n", '0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.\r\n']
+2024-04-30 22:43:02,631 - INFO - PostgreSQL успешно установлен.
+2024-04-30 22:43:02,631 - INFO - Настройка PostgreSQL...
+2024-04-30 22:43:02,685 - INFO - The following output was produced:
+ ['123321\r\n', '[sudo] password for vydra: \r\n']
+2024-04-30 22:43:02,738 - INFO - The following output was produced:
+ ['123321\r\n', '[sudo] password for vydra: \r\n', 'host all all 0.0.0.0/0 md5\r\r\n']
+2024-04-30 22:43:05,125 - INFO - The following output was produced:
+ ['123321\r\n', '[sudo] password for vydra: \r\n']
+2024-04-30 22:43:05,125 - INFO - PostgreSQL успешно настроен для приема внешних соединений.
+2024-04-30 22:43:05,125 - INFO - Проверка работы БД...
+2024-04-30 22:43:05,216 - INFO - The following output was produced:
+ ['123321\r\n', ' ?column? \r\n', '----------\r\n', '        1\r\n', '(1 row)\r\n', '\r\n']
+2024-04-30 22:43:05,217 - ERROR - Произошла ошибка при проверке БД.
+2024-04-30 22:44:58,973 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-04-30 22:44:59,060 - INFO - Authentication (password) successful!
+2024-04-30 22:44:59,254 - INFO - Original command sent
+2024-04-30 22:44:59,254 - INFO - password sent
+2024-04-30 22:44:59,254 - INFO - input flushed
+2024-04-30 22:44:59,254 - INFO - Установка PostgreSQL...
+2024-04-30 22:44:59,512 - INFO - The following output was produced:
+ ['123321\r\n', '[sudo] password for vydra: \r\n', '\rReading package lists... 0%\r\rReading package lists... 100%\r\rReading package lists... Done\r\r\n', '\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r\rBuilding dependency tree... Done\r\r\n', '\rReading state information... 0% \r\rReading state information... 0%\r\rReading state information... Done\r\r\n', 'postgresql is already the newest version (14+238).\r\n', 'postgresql-client-common is already the newest version (238).\r\n', 'postgresql-contrib is already the newest version (14+238).\r\n', 'The following packages were automatically installed and are no longer required:\r\n', '  default-mysql-server libblas3 liblinear4 libodbc1 libodbccr2 libssh2-1\r\n', '  lua-lpeg nmap nmap-common\r\n', "Use 'sudo apt autoremove' to remove them.\r\n", '0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.\r\n']
+2024-04-30 22:44:59,513 - INFO - PostgreSQL успешно установлен.
+2024-04-30 22:44:59,513 - INFO - Настройка PostgreSQL...
+2024-04-30 22:44:59,565 - INFO - The following output was produced:
+ ['123321\r\n', '[sudo] password for vydra: \r\n']
+2024-04-30 22:44:59,618 - INFO - The following output was produced:
+ ['123321\r\n', '[sudo] password for vydra: \r\n', 'host all all 0.0.0.0/0 md5\r\r\n']
+2024-04-30 22:45:02,003 - INFO - The following output was produced:
+ ['123321\r\n', '[sudo] password for vydra: \r\n']
+2024-04-30 22:45:02,003 - INFO - PostgreSQL успешно настроен для приема внешних соединений.
+2024-04-30 22:45:02,003 - INFO - Проверка работы БД...
+2024-04-30 22:45:02,099 - INFO - The following output was produced:
+ ['123321\r\n', ' ?column? \r\n', '----------\r\n', '        1\r\n', '(1 row)\r\n', '\r\n']
+2024-04-30 22:45:02,100 - ERROR - Произошла ошибка при проверке БД.
+2024-04-30 22:46:07,686 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-04-30 22:46:07,773 - INFO - Authentication (password) successful!
+2024-04-30 22:46:07,970 - INFO - Original command sent
+2024-04-30 22:46:07,970 - INFO - password sent
+2024-04-30 22:46:07,970 - INFO - input flushed
+2024-04-30 22:46:07,971 - INFO - Установка PostgreSQL...
+2024-04-30 22:46:08,232 - INFO - The following output was produced:
+ ['123321\r\n', '[sudo] password for vydra: \r\n', '\rReading package lists... 0%\r\rReading package lists... 100%\r\rReading package lists... Done\r\r\n', '\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r\rBuilding dependency tree... Done\r\r\n', '\rReading state information... 0% \r\rReading state information... 0%\r\rReading state information... Done\r\r\n', 'postgresql is already the newest version (14+238).\r\n', 'postgresql-client-common is already the newest version (238).\r\n', 'postgresql-contrib is already the newest version (14+238).\r\n', 'The following packages were automatically installed and are no longer required:\r\n', '  default-mysql-server libblas3 liblinear4 libodbc1 libodbccr2 libssh2-1\r\n', '  lua-lpeg nmap nmap-common\r\n', "Use 'sudo apt autoremove' to remove them.\r\n", '0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.\r\n']
+2024-04-30 22:46:08,232 - INFO - PostgreSQL успешно установлен.
+2024-04-30 22:46:08,232 - INFO - Настройка PostgreSQL...
+2024-04-30 22:46:08,284 - INFO - The following output was produced:
+ ['123321\r\n', '[sudo] password for vydra: \r\n']
+2024-04-30 22:46:08,338 - INFO - The following output was produced:
+ ['123321\r\n', '[sudo] password for vydra: \r\n', 'host all all 0.0.0.0/0 md5\r\r\n']
+2024-04-30 22:46:10,728 - INFO - The following output was produced:
+ ['123321\r\n', '[sudo] password for vydra: \r\n']
+2024-04-30 22:46:10,728 - INFO - PostgreSQL успешно настроен для приема внешних соединений.
+2024-04-30 22:46:10,728 - INFO - Проверка работы БД...
+2024-04-30 22:46:10,830 - INFO - The following output was produced:
+ ['123321\r\n', ' ?column? \r\n', '----------\r\n', '        1\r\n', '(1 row)\r\n', '\r\n']
