@@ -12,4 +12,4 @@
 
 ![Иллюстрация к проекту](https://github.com/4ellovekkk/pgstart_devops_test/image.png)
 
-![Image alt](https://github.com/4ellovekkk/pgstart_devops_test/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/4ellovekkk/pgstart_devops_test/raw/main/image.png)
